@@ -1,8 +1,7 @@
 # Detection Lab
-## As of 2023-01-01, DetectionLab is no longer being actively maintained
+
 ![DetectionLab](./img/DetectionLab.png)
 
-DetectionLab is tested weekly on Saturdays via a scheduled CircleCI workflow to ensure that builds are passing.
 
 ![Lint Code Base](https://github.com/clong/DetectionLab/workflows/Lint%20Code%20Base/badge.svg)
 [![license](https://img.shields.io/github/license/clong/DetectionLab.svg?style=flat-square)](https://github.com/clong/DetectionLab/blob/master/license.md)
@@ -98,7 +97,5 @@ A sizable percentage of this code was borrowed and adapted from [Stefan Scherer]
 * [PurpleSharp](https://github.com/mvelazc0/PurpleSharp)
 * [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
 
-# DetectionLab Sponsors
-#### Last updated: 01/01/2023
-I would like to extend thanks to everyone who sponsored DetectionLab over the past few years. DetectionLab is no longer actively being maintained or developed.
+
 
